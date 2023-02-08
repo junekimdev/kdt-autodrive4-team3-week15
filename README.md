@@ -33,10 +33,6 @@
 - ML model: YOLOv3-tiny
 - ML Pipeline: Pytorch -> Darknet -> ONNX -> TensorRT
 
-## S/W Architecture
-
-![architecture](architecture.svg)
-
 ## Referenced Repos
 
 - <https://github.com/2damin/yolov3-pytorch>
